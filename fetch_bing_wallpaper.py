@@ -185,7 +185,7 @@ def main():
         
         # 使用 API 返回的日期作为文件夹名
         today = get_date_from_meta(meta)
-        base_dir = Path("wallpapers/bing") / today
+        base_dir = Path("docs/wallpapers/bing") / today
         
         # 如果该日期的壁纸已存在，跳过
         if base_dir.exists() and (base_dir / "image.jpg").exists():

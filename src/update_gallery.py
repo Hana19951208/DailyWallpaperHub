@@ -17,7 +17,7 @@ from src.config_loader import get_enabled_sources, get_display_config
 def update_gallery():
     """更新 docs/index.html 中的画廊内容"""
     html_path = Path("docs/index.html")
-    wallpapers_base = Path("wallpapers")
+    wallpapers_base = Path("docs/wallpapers")
     
     # 获取配置
     enabled_sources = get_enabled_sources()

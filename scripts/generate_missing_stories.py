@@ -21,7 +21,7 @@ def generate_missing_stories():
     print("🚀 开始扫描并生成缺失的故事...")
     
     fetch_bing_wallpaper.load_env()
-    wallpapers_base = Path("wallpapers")
+    wallpapers_base = Path("docs/wallpapers")
     
     total_count = 0
     success_count = 0

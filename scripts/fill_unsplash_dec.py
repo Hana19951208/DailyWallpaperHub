@@ -33,7 +33,7 @@ def fill_unsplash_december():
     
     count = 0
     for date_str in dates:
-        base_dir = Path("wallpapers/unsplash") / date_str
+        base_dir = Path("docs/wallpapers/unsplash") / date_str
         
         # 如果已存在，跳过
         if base_dir.exists() and (base_dir / "image.jpg").exists():

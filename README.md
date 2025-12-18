@@ -42,52 +42,52 @@
 <tr>
 <td align="center"><b>2025-12-18</b></td>
 <td align="center" valign="top"><small>-</small></td>
-<td align="center" valign="top"><a href="wallpapers/unsplash/2025-12-18/image.jpg"><img src="wallpapers/unsplash/2025-12-18/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="wallpapers/unsplash/2025-12-18/story.md"><small>a view of the mountains from the top of a hill 📖</small></a></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2025-12-18/image.jpg"><img src="docs/wallpapers/unsplash/2025-12-18/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2025-12-18/story.md"><small>a view of the mountains from the top of a hill 📖</small></a></td>
 </tr>
 <tr>
 <td align="center"><b>2025-12-17</b></td>
-<td align="center" valign="top"><a href="wallpapers/bing/2025-12-17/image.jpg"><img src="wallpapers/bing/2025-12-17/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="wallpapers/bing/2025-12-17/story.md"><small>犹他州的时光层叠 📖</small></a></td>
-<td align="center" valign="top"><a href="wallpapers/unsplash/2025-12-17/image.jpg"><img src="wallpapers/unsplash/2025-12-17/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="wallpapers/unsplash/2025-12-17/story.md"><small>a lush green hillside covered in lots of moss 📖</small></a></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2025-12-17/image.jpg"><img src="docs/wallpapers/bing/2025-12-17/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2025-12-17/story.md"><small>犹他州的时光层叠 📖</small></a></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2025-12-17/image.jpg"><img src="docs/wallpapers/unsplash/2025-12-17/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2025-12-17/story.md"><small>a lush green hillside covered in lots of moss 📖</small></a></td>
 </tr>
 <tr>
 <td align="center"><b>2025-12-16</b></td>
-<td align="center" valign="top"><a href="wallpapers/bing/2025-12-16/image.jpg"><img src="wallpapers/bing/2025-12-16/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="wallpapers/bing/2025-12-16/story.md"><small>皮毛、霜冻和盛宴 📖</small></a></td>
-<td align="center" valign="top"><a href="wallpapers/unsplash/2025-12-16/image.jpg"><img src="wallpapers/unsplash/2025-12-16/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="wallpapers/unsplash/2025-12-16/story.md"><small>Vista panoramica 📖</small></a></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2025-12-16/image.jpg"><img src="docs/wallpapers/bing/2025-12-16/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2025-12-16/story.md"><small>皮毛、霜冻和盛宴 📖</small></a></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2025-12-16/image.jpg"><img src="docs/wallpapers/unsplash/2025-12-16/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2025-12-16/story.md"><small>Vista panoramica 📖</small></a></td>
 </tr>
 <tr>
 <td align="center"><b>2025-12-15</b></td>
-<td align="center" valign="top"><a href="wallpapers/bing/2025-12-15/image.jpg"><img src="wallpapers/bing/2025-12-15/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="wallpapers/bing/2025-12-15/story.md"><small>小帽子，大能量 📖</small></a></td>
-<td align="center" valign="top"><a href="wallpapers/unsplash/2025-12-15/image.jpg"><img src="wallpapers/unsplash/2025-12-15/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="wallpapers/unsplash/2025-12-15/story.md"><small>a rock in the middle of a body of water 📖</small></a></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2025-12-15/image.jpg"><img src="docs/wallpapers/bing/2025-12-15/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2025-12-15/story.md"><small>小帽子，大能量 📖</small></a></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2025-12-15/image.jpg"><img src="docs/wallpapers/unsplash/2025-12-15/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2025-12-15/story.md"><small>a rock in the middle of a body of water 📖</small></a></td>
 </tr>
 <tr>
 <td align="center"><b>2025-12-14</b></td>
-<td align="center" valign="top"><a href="wallpapers/bing/2025-12-14/image.jpg"><img src="wallpapers/bing/2025-12-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="wallpapers/bing/2025-12-14/story.md"><small>静谧水波，闪耀灯影 📖</small></a></td>
-<td align="center" valign="top"><a href="wallpapers/unsplash/2025-12-14/image.jpg"><img src="wallpapers/unsplash/2025-12-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="wallpapers/unsplash/2025-12-14/story.md"><small>brown mountains under white clouds during daytime 📖</small></a></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2025-12-14/image.jpg"><img src="docs/wallpapers/bing/2025-12-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2025-12-14/story.md"><small>静谧水波，闪耀灯影 📖</small></a></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2025-12-14/image.jpg"><img src="docs/wallpapers/unsplash/2025-12-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2025-12-14/story.md"><small>brown mountains under white clouds during daytime 📖</small></a></td>
 </tr>
 <tr>
 <td align="center"><b>2025-12-13</b></td>
-<td align="center" valign="top"><a href="wallpapers/bing/2025-12-13/image.jpg"><img src="wallpapers/bing/2025-12-13/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="wallpapers/bing/2025-12-13/story.md"><small>假日鸟类大比拼 📖</small></a></td>
-<td align="center" valign="top"><a href="wallpapers/unsplash/2025-12-13/image.jpg"><img src="wallpapers/unsplash/2025-12-13/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="wallpapers/unsplash/2025-12-13/story.md"><small>We could take a 5-minute walk from our Airbnb to visit the Banasura Sagar lake. It was a routine on most evenings. And during sunset, along with the mist, the mountains, and calm water, it would form the most beautiful and picturesque moment.  📖</small></a></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2025-12-13/image.jpg"><img src="docs/wallpapers/bing/2025-12-13/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2025-12-13/story.md"><small>假日鸟类大比拼 📖</small></a></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2025-12-13/image.jpg"><img src="docs/wallpapers/unsplash/2025-12-13/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2025-12-13/story.md"><small>We could take a 5-minute walk from our Airbnb to visit the Banasura Sagar lake. It was a routine on most evenings. And during sunset, along with the mist, the mountains, and calm water, it would form the most beautiful and picturesque moment.  📖</small></a></td>
 </tr>
 <tr>
 <td align="center"><b>2025-12-12</b></td>
-<td align="center" valign="top"><a href="wallpapers/bing/2025-12-12/image.jpg"><img src="wallpapers/bing/2025-12-12/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="wallpapers/bing/2025-12-12/story.md"><small>冰封的倒影 📖</small></a></td>
-<td align="center" valign="top"><a href="wallpapers/unsplash/2025-12-12/image.jpg"><img src="wallpapers/unsplash/2025-12-12/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="wallpapers/unsplash/2025-12-12/story.md"><small>a field with tall grass and trees in the background 📖</small></a></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2025-12-12/image.jpg"><img src="docs/wallpapers/bing/2025-12-12/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2025-12-12/story.md"><small>冰封的倒影 📖</small></a></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2025-12-12/image.jpg"><img src="docs/wallpapers/unsplash/2025-12-12/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2025-12-12/story.md"><small>a field with tall grass and trees in the background 📖</small></a></td>
 </tr>
 <tr>
 <td align="center"><b>2025-12-11</b></td>
-<td align="center" valign="top"><a href="wallpapers/bing/2025-12-11/image.jpg"><img src="wallpapers/bing/2025-12-11/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="wallpapers/bing/2025-12-11/story.md"><small>点亮节日的红色植物 📖</small></a></td>
-<td align="center" valign="top"><a href="wallpapers/unsplash/2025-12-11/image.jpg"><img src="wallpapers/unsplash/2025-12-11/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="wallpapers/unsplash/2025-12-11/story.md"><small>a large waterfall with water pouring out of it 📖</small></a></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2025-12-11/image.jpg"><img src="docs/wallpapers/bing/2025-12-11/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2025-12-11/story.md"><small>点亮节日的红色植物 📖</small></a></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2025-12-11/image.jpg"><img src="docs/wallpapers/unsplash/2025-12-11/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2025-12-11/story.md"><small>a large waterfall with water pouring out of it 📖</small></a></td>
 </tr>
 <tr>
 <td align="center"><b>2025-12-10</b></td>
-<td align="center" valign="top"><a href="wallpapers/bing/2025-12-10/image.jpg"><img src="wallpapers/bing/2025-12-10/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="wallpapers/bing/2025-12-10/story.md"><small>天地相接之处 📖</small></a></td>
-<td align="center" valign="top"><a href="wallpapers/unsplash/2025-12-10/image.jpg"><img src="wallpapers/unsplash/2025-12-10/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="wallpapers/unsplash/2025-12-10/story.md"><small>a river running through a valley surrounded by mountains 📖</small></a></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2025-12-10/image.jpg"><img src="docs/wallpapers/bing/2025-12-10/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2025-12-10/story.md"><small>天地相接之处 📖</small></a></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2025-12-10/image.jpg"><img src="docs/wallpapers/unsplash/2025-12-10/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2025-12-10/story.md"><small>a river running through a valley surrounded by mountains 📖</small></a></td>
 </tr>
 <tr>
 <td align="center"><b>2025-12-09</b></td>
-<td align="center" valign="top"><a href="wallpapers/bing/2025-12-09/image.jpg"><img src="wallpapers/bing/2025-12-09/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="wallpapers/bing/2025-12-09/story.md"><small>文化交汇之地 📖</small></a></td>
-<td align="center" valign="top"><a href="wallpapers/unsplash/2025-12-09/image.jpg"><img src="wallpapers/unsplash/2025-12-09/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="wallpapers/unsplash/2025-12-09/story.md"><small>a small island in the middle of a lake 📖</small></a></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2025-12-09/image.jpg"><img src="docs/wallpapers/bing/2025-12-09/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2025-12-09/story.md"><small>文化交汇之地 📖</small></a></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2025-12-09/image.jpg"><img src="docs/wallpapers/unsplash/2025-12-09/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2025-12-09/story.md"><small>a small island in the middle of a lake 📖</small></a></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
@@ -165,21 +165,21 @@ DailyWallpaperHub/
 │   ├── utils.py              # 企业微信推送工具
 │   ├── update_readme.py      # README 更新器
 │   └── update_gallery.py     # Gallery 更新器
-├── wallpapers/
-│   ├── bing/                 # Bing 壁纸存储
-│   │   └── YYYY-MM-DD/
-│   │       ├── image.jpg     # 高清原图
-│   │       ├── thumb.jpg     # 缩略图
-│   │       ├── meta.json     # 元数据
-│   │       └── story.md      # AI 故事
-│   └── unsplash/             # Unsplash 壁纸存储
-│       └── YYYY-MM-DD/
-│           ├── image.jpg
-│           ├── thumb.jpg
-│           ├── meta.json
-│           └── story.md
 ├── docs/
-│   └── index.html            # GitHub Pages 画廊
+│   ├── index.html            # GitHub Pages 画廊
+│   └── wallpapers/           # 404 修复：由于部署源在 docs/，壁纸必须放在此目录下
+│       ├── bing/
+│       │   └── YYYY-MM-DD/
+│       │       ├── image.jpg
+│       │       ├── thumb.jpg
+│       │       ├── meta.json
+│       │       └── story.md
+│       └── unsplash/
+│           └── YYYY-MM-DD/
+│               ├── image.jpg
+│               ├── thumb.jpg
+│               ├── meta.json
+│               └── story.md
 ├── .github/workflows/
 │   └── daily.yml             # 自动化工作流
 ├── fetch_bing_wallpaper.py   # Bing 抓取器

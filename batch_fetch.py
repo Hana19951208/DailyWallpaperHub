@@ -62,7 +62,7 @@ def batch_fetch_bing(target_date):
         if not date_str.startswith(target_date):
             continue
         
-        base_dir = Path("wallpapers/bing") / date_str
+        base_dir = Path("docs/wallpapers/bing") / date_str
         base_dir.mkdir(parents=True, exist_ok=True)
         
         image_path = base_dir / "image.jpg"
@@ -133,7 +133,7 @@ def batch_fetch_unsplash(target_date):
     
     count = 0
     for date_str in dates_to_fetch:
-        base_dir = Path("wallpapers/unsplash") / date_str
+        base_dir = Path("docs/wallpapers/unsplash") / date_str
         
         # 如果已存在，跳过
         if base_dir.exists() and (base_dir / "image.jpg").exists():

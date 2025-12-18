@@ -18,16 +18,13 @@ from src.config_loader import get_enabled_sources, get_display_config
 def update_readme():
     """更新 README.md 中 WALLPAPER_INDEX 锚点区域的内容"""
     readme_path = Path("README.md")
-    wallpapers_base = Path("wallpapers")
+    # 获取壁纸数据
+    wallpapers_base = Path("docs/wallpapers")
     
     # 获取配置
     enabled_sources = get_enabled_sources()
     display_config = get_display_config()
     max_items = display_config.get("max_items_per_source", 10)
-    
-    if not enabled_sources:
-        print("[WARN] 没有启用的壁纸源")
-        return
     
     # 按日期聚合所有源的壁纸
     date_wallpapers = defaultdict(dict)  # {date: {source_name: {meta, paths}}}
@@ -57,9 +54,9 @@ def update_readme():
                     meta = json.loads(meta_path.read_text(encoding="utf-8"))
                     date_wallpapers[date][source_name] = {
                         "meta": meta,
-                        "thumb": f"wallpapers/{source_name}/{date}/thumb.jpg",
-                        "image": f"wallpapers/{source_name}/{date}/image.jpg",
-                        "story": f"wallpapers/{source_name}/{date}/story.md" if story_path.exists() else None,
+                        "thumb": f"docs/wallpapers/{source_name}/{date}/thumb.jpg",
+                        "image": f"docs/wallpapers/{source_name}/{date}/image.jpg",
+                        "story": f"docs/wallpapers/{source_name}/{date}/story.md" if story_path.exists() else None,
                         "display_name": source.get("display_name", source_name)
                     }
                 except:

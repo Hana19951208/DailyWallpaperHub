@@ -75,7 +75,7 @@ def main():
     
     # 使用今天的日期
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    base_dir = Path("wallpapers/unsplash") / today
+    base_dir = Path("docs/wallpapers/unsplash") / today
     
     if base_dir.exists() and (base_dir / "image.jpg").exists():
         print(f"[INFO] {today} 的 Unsplash 壁纸已存在")
