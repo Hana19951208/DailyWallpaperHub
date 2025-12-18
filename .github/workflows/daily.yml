@@ -1,4 +1,4 @@
-name: Daily Bing Wallpaper
+name: DailyWallpaperHub
 
 on:
   schedule:
