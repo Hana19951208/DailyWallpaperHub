@@ -7,6 +7,7 @@
 - 更新 Gallery 页面
 - 推送企业微信
 """
+import argparse
 
 import os
 import json
