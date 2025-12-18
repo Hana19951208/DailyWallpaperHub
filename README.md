@@ -28,10 +28,8 @@
 ## 📅 壁纸索引 (最新)
 
 <!-- WALLPAPER_INDEX_START -->
-
-- **2025-12-18**
+- **2025-12-18**  
   ![](wallpapers/2025-12-18/thumb.jpg)
-
 <!-- WALLPAPER_INDEX_END -->
 
 ---
