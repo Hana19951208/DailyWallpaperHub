@@ -42,6 +42,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2025-12-21</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2025-12-21/image.jpg"><img src="docs/wallpapers/unsplash/2025-12-21/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2025-12-21/story.md"><small>a house in the middle of a mountain range 📖</small></a></td>
+</tr>
+<tr>
 <td align="center"><b>2025-12-20</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2025-12-20/image.jpg"><img src="docs/wallpapers/bing/2025-12-20/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2025-12-20/story.md"><small>美丽的雾凇景色 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2025-12-20/image.jpg"><img src="docs/wallpapers/unsplash/2025-12-20/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2025-12-20/story.md"><small>a person riding a surfboard on a wave in the ocean 📖</small></a></td>
@@ -85,11 +90,6 @@
 <td align="center"><b>2025-12-12</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2025-12-12/image.jpg"><img src="docs/wallpapers/bing/2025-12-12/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2025-12-12/story.md"><small>冰封的倒影 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2025-12-12/image.jpg"><img src="docs/wallpapers/unsplash/2025-12-12/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2025-12-12/story.md"><small>a field with tall grass and trees in the background 📖</small></a></td>
-</tr>
-<tr>
-<td align="center"><b>2025-12-11</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2025-12-11/image.jpg"><img src="docs/wallpapers/bing/2025-12-11/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2025-12-11/story.md"><small>点亮节日的红色植物 📖</small></a></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2025-12-11/image.jpg"><img src="docs/wallpapers/unsplash/2025-12-11/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2025-12-11/story.md"><small>a large waterfall with water pouring out of it 📖</small></a></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
