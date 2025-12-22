@@ -134,12 +134,21 @@ def main():
     if webhook_url:
         try:
             send_image_to_wecom(webhook_url, str(image_path))
-            send_markdown_to_wecom(webhook_url, meta_info)
+            send_markdown_to_wecom(webhook_url, meta_info, source_name="Unsplash")
             if story_content:
                 send_story_to_wecom(webhook_url, meta_info, story_content)
-            print("[OK] 企业微信推送成功")
+            print("[OK] Unsplash 企业微信推送成功")
         except Exception as e:
-            print(f"[WARN] 企业微信推送失败: {e}")
+            print(f"[WARN] Unsplash 企业微信推送失败: {e}")
+    
+    # 9. 分发到腾讯云 COS (可选)
+    from src.utils import upload_to_cos
+    cos_base_path = f"wallpapers/unsplash/{today}"
+    upload_to_cos(str(image_path), f"{cos_base_path}/image.jpg")
+    upload_to_cos(str(thumb_path), f"{cos_base_path}/thumb.jpg")
+    if story_content:
+        upload_to_cos(str(base_dir / "story.md"), f"{cos_base_path}/story.md")
+    upload_to_cos(str(meta_path), f"{cos_base_path}/meta.json")
     
     print(f"\n✅ 完成！Unsplash 壁纸已归档至 {base_dir}")
 

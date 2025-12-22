@@ -101,6 +101,15 @@ def batch_fetch_bing(target_date):
             "has_story": has_story
         }
         meta_path.write_text(json.dumps(meta_info, ensure_ascii=False, indent=2), encoding="utf-8")
+
+        # 4. 上传到 COS
+        from src.utils import upload_to_cos
+        cos_base_path = f"wallpapers/bing/{date_str}"
+        upload_to_cos(str(image_path), f"{cos_base_path}/image.jpg")
+        upload_to_cos(str(thumb_path), f"{cos_base_path}/thumb.jpg")
+        if has_story:
+            upload_to_cos(str(story_path), f"{cos_base_path}/story.md")
+        upload_to_cos(str(meta_path), f"{cos_base_path}/meta.json")
     
     print(f"✅ Bing 批量处理完成：新增图片 {count} 张，补全故事 {story_count} 篇。")
 
@@ -181,7 +190,17 @@ def batch_fetch_unsplash(target_date):
                 "photographer": author,
                 "has_story": bool(story_content)
             }
-            (base_dir / "meta.json").write_text(json.dumps(meta_info, ensure_ascii=False, indent=2), encoding="utf-8")
+            meta_path = base_dir / "meta.json"
+            meta_path.write_text(json.dumps(meta_info, ensure_ascii=False, indent=2), encoding="utf-8")
+            
+            # 上传到 COS
+            from src.utils import upload_to_cos
+            cos_base_path = f"wallpapers/unsplash/{date_str}"
+            upload_to_cos(str(image_path), f"{cos_base_path}/image.jpg")
+            upload_to_cos(str(thumb_path), f"{cos_base_path}/thumb.jpg")
+            if story_content:
+                upload_to_cos(str(base_dir / "story.md"), f"{cos_base_path}/story.md")
+            upload_to_cos(str(meta_path), f"{cos_base_path}/meta.json")
             
             print(f"📥 已抓取 {date_str}: {title}")
             count += 1

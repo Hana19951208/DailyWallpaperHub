@@ -72,6 +72,13 @@ def generate_missing_stories():
                     meta_path.write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
                     
                     print(f"✅ {source_name}/{date_str}: 故事已生成")
+                    
+                    # 同步到 COS
+                    from src.utils import upload_to_cos
+                    cos_base_path = f"wallpapers/{source_name}/{date_str}"
+                    upload_to_cos(str(story_path), f"{cos_base_path}/story.md")
+                    upload_to_cos(str(meta_path), f"{cos_base_path}/meta.json")
+                    
                     success_count += 1
                 else:
                     print(f"[WARN] {source_name}/{date_str}: 故事生成失败")

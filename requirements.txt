@@ -2,3 +2,4 @@ requests
 Pillow
 pyyaml
 argparse
+cos-python-sdk-v5

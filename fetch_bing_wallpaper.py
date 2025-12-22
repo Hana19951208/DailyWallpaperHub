@@ -141,15 +141,15 @@ def generate_story(title, copyright, image_path: Path):
         return None
 
 
-def push_to_wecom(webhook_url: str, image_path: Path, meta: dict, story_content: str = None):
-    """推送图片、消息和故事到企业微信"""
+def push_to_wecom(webhook_url: str, image_path: Path, meta: dict, story_content: str = None, source_name: str = "Bing"):
+    """推送图片、消息和故事到企业微信处理核心"""
     try:
         # 1. 发送图片
         send_image_to_wecom(webhook_url, str(image_path))
         print("[OK] 企业微信图片推送成功")
 
         # 2. 发送 markdown 消息（元数据）
-        send_markdown_to_wecom(webhook_url, meta)
+        send_markdown_to_wecom(webhook_url, meta, source_name=source_name)
         print("[OK] 企业微信消息推送成功")
         
         # 3. 发送故事内容（如果存在）
@@ -248,9 +248,20 @@ def main():
     # 8. 推送企业微信
     webhook_url = os.environ.get("WEWORK_WEBHOOK")
     if webhook_url:
-        push_to_wecom(webhook_url, image_path, meta_info, story_content)
+        push_to_wecom(webhook_url, image_path, meta_info, story_content, source_name="Bing")
     else:
         print("[INFO] WEWORK_WEBHOOK 未配置，跳过推送")
+
+    # 9. 分发到腾讯云 COS (可选)
+    from src.utils import upload_to_cos
+    cos_base_path = f"wallpapers/bing/{today}"
+    upload_to_cos(str(image_path), f"{cos_base_path}/image.jpg")
+    upload_to_cos(str(thumb_path), f"{cos_base_path}/thumb.jpg")
+    if story_content:
+        # 创建临时文件上传 story
+        story_path = base_dir / "story.md"
+        upload_to_cos(str(story_path), f"{cos_base_path}/story.md")
+    upload_to_cos(str(meta_path), f"{cos_base_path}/meta.json")
 
     print(f"\n✅ 完成！壁纸已归档至 {base_dir}")
 

@@ -17,8 +17,9 @@
 - **📝 提示词外部化**: AI 提示词存储在 `prompts/story_prompt.txt`，可随时自定义优化
 - **⏰ 智能调度**: GitHub Actions 每小时自动检测更新，第一时间获取最新壁纸
 - **💾 持久化归档**: 高清原图、缩略图、元数据 (JSON) 及 AI 故事自动提交至仓库，永不丢失
+- **☁️ 腾讯云 COS**: 支持自动分发至腾讯云 COS，适应大规模分发需求（可选）
 - **🎭 现代化展示**: 内置 GitHub Pages 在线画廊，支持响应式布局与暗黑模式
-- **📱 企业微信推送**: 自动推送图片、元数据和 AI 故事到企业微信群（支持 Markdown 格式）
+- **📱 企业微信推送**: 自动推送多源图片、元数据和 AI 故事到企业微信群（支持动态数据源标识）
 - **🎯 数量限制**: 索引默认只展示最近 10 天，避免页面过长（可在 `config/sources.yaml` 中调整）
 - **🛠 批量工具**: 支持按日期和源批量抓取历史壁纸
 - **💰 零成本**: 完全基于 GitHub 免费资源构建
@@ -140,6 +141,10 @@ python batch_fetch.py unsplash 2025-12-10 # 抓取 Unsplash 指定日期
    - `LLM_BASE_URL`: LLM API 基础 URL
    - `LLM_MODEL_NAME`: LLM 模型名称
    - `UNSPLASH_ACCESS_KEY`: Unsplash API 访问密钥
+   - `COS_SECRET_ID`: 腾讯云 COS SecretId（可选）
+   - `COS_SECRET_KEY`: 腾讯云 COS SecretKey（可选）
+   - `COS_REGION`: 腾讯云 COS 地域（如 ap-shanghai）
+   - `COS_BUCKET`: 腾讯云 COS 存储桶名称
 
 3. **启用 GitHub Pages**:
    - Settings → Pages
