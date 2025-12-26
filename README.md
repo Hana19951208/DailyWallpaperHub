@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2025-12-26</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2025-12-26/image.jpg"><img src="docs/wallpapers/unsplash/2025-12-26/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2025-12-26/story.md"><small>A large rock formation in the middle of a desert 📖</small></a></td>
+</tr>
+<tr>
 <td align="center"><b>2025-12-25</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2025-12-25/image.jpg"><img src="docs/wallpapers/bing/2025-12-25/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2025-12-25/story.md"><small>打破盒子的传统 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2025-12-25/image.jpg"><img src="docs/wallpapers/unsplash/2025-12-25/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2025-12-25/story.md"><small>man in brown jacket standing on brown grass field during daytime 📖</small></a></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2025-12-17</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2025-12-17/image.jpg"><img src="docs/wallpapers/bing/2025-12-17/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2025-12-17/story.md"><small>犹他州的时光层叠 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2025-12-17/image.jpg"><img src="docs/wallpapers/unsplash/2025-12-17/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2025-12-17/story.md"><small>a lush green hillside covered in lots of moss 📖</small></a></td>
-</tr>
-<tr>
-<td align="center"><b>2025-12-16</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2025-12-16/image.jpg"><img src="docs/wallpapers/bing/2025-12-16/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2025-12-16/story.md"><small>皮毛、霜冻和盛宴 📖</small></a></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2025-12-16/image.jpg"><img src="docs/wallpapers/unsplash/2025-12-16/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2025-12-16/story.md"><small>Vista panoramica 📖</small></a></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
