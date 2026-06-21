@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-06-21</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-21/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-21/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a body of water surrounded by palm trees</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-06-20</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-06/2026-06-20/image.jpg"><img src="docs/wallpapers/bing/2026-06/2026-06-20/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>鸟类好爸爸</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-20/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-20/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>brown wheat in close up photography</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-06-12</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-06/2026-06-12/image.jpg"><img src="docs/wallpapers/bing/2026-06/2026-06-12/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>岁月的层峦</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-12/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-12/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>A view of the hills and valley at Vattakanal, India</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-06-11</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-06/2026-06-11/image.jpg"><img src="docs/wallpapers/bing/2026-06/2026-06-11/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>惊鸿一瞥</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-11/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-11/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a body of water with mountains in the background</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
