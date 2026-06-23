@@ -44,7 +44,7 @@
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
 <td align="center"><b>2026-06-23</b></td>
-<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-06/2026-06-23/image.jpg"><img src="docs/wallpapers/bing/2026-06/2026-06-23/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>花粉与翅膀相遇</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-23/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-23/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a grassy field with trees in the background</small></td>
 </tr>
 <tr>
