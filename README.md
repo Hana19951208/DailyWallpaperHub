@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-06-23</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-23/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-23/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a grassy field with trees in the background</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-06-22</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-06/2026-06-22/image.jpg"><img src="docs/wallpapers/bing/2026-06/2026-06-22/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>天际线上的印记</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-22/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-22/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>white mushroom on brown soil</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-06-14</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-06/2026-06-14/image.jpg"><img src="docs/wallpapers/bing/2026-06/2026-06-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>岁月雕琢，风景始成</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-14/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Loner</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-06-13</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-06/2026-06-13/image.jpg"><img src="docs/wallpapers/bing/2026-06/2026-06-13/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>潜羽探清波</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-13/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-13/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Somewhere in Oregon during a roadtrip</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
