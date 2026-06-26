@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-06-26</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-26/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-26/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a view of a hill with a house on top of it</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-06-25</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-06/2026-06-25/image.jpg"><img src="docs/wallpapers/bing/2026-06/2026-06-25/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>时事</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-25/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-25/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>body of water near mountain during sunset</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-06-17</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-06/2026-06-17/image.jpg"><img src="docs/wallpapers/bing/2026-06/2026-06-17/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>坚如磐石的奇观</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-17/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-17/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a view of a lake in the middle of a forest</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-06-16</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-06/2026-06-16/image.jpg"><img src="docs/wallpapers/bing/2026-06/2026-06-16/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>蜿蜒而上</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-16/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-16/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a small pond in the middle of some rocks</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
