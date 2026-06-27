@@ -44,7 +44,7 @@
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
 <td align="center"><b>2026-06-27</b></td>
-<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-06/2026-06-27/image.jpg"><img src="docs/wallpapers/bing/2026-06/2026-06-27/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>看起来很精神</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-27/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-27/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>green trees under white clouds and blue sky during daytime</small></td>
 </tr>
 <tr>
