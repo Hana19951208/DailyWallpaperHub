@@ -44,7 +44,7 @@
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
 <td align="center"><b>2026-06-28</b></td>
-<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-06/2026-06-28/image.jpg"><img src="docs/wallpapers/bing/2026-06/2026-06-28/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>生于烈火，拥于碧水</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-28/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-28/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Atacama is filled with other-worldly landscapes. Nearly everywhere you turn, you feel like you might be on another planet.</small></td>
 </tr>
 <tr>
