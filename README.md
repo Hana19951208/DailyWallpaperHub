@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-07-12</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-07/2026-07-12/image.jpg"><img src="docs/wallpapers/unsplash/2026-07/2026-07-12/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a lush green forest filled with lots of trees</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-07-11</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-07/2026-07-11/image.jpg"><img src="docs/wallpapers/bing/2026-07/2026-07-11/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>缅因州的狂野一面</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-07/2026-07-11/image.jpg"><img src="docs/wallpapers/unsplash/2026-07/2026-07-11/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>green grass field and mountains during daytime</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-07-03</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-07/2026-07-03/image.jpg"><img src="docs/wallpapers/bing/2026-07/2026-07-03/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>此行，不虚绕道</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-07/2026-07-03/image.jpg"><img src="docs/wallpapers/unsplash/2026-07/2026-07-03/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>green grass field and mountains under blue sky during daytime</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-07-02</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-07/2026-07-02/image.jpg"><img src="docs/wallpapers/bing/2026-07/2026-07-02/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>流光之诗</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-07/2026-07-02/image.jpg"><img src="docs/wallpapers/unsplash/2026-07/2026-07-02/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a mountain covered in snow with a telephone pole in the foreground</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
