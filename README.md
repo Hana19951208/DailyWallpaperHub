@@ -44,7 +44,7 @@
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
 <td align="center"><b>2026-08-08</b></td>
-<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-08/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-08/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>身份认同的建筑表达</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-08/2026-08-08/image.jpg"><img src="docs/wallpapers/unsplash/2026-08/2026-08-08/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a mountain covered in clouds and trees on a cloudy day</small></td>
 </tr>
 <tr>
