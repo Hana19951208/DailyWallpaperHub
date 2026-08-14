@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-08-14</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-08/2026-08-14/image.jpg"><img src="docs/wallpapers/unsplash/2026-08/2026-08-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>mountain ranges</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-08-13</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-13/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-13/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>为动物脚掌而建，而非行人</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-08/2026-08-13/image.jpg"><img src="docs/wallpapers/unsplash/2026-08/2026-08-13/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>silhouette of mountain under blue sky during night time</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-08-05</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-05/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-05/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>生死渡口，勇者的史诗</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-08/2026-08-05/image.jpg"><img src="docs/wallpapers/unsplash/2026-08/2026-08-05/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Mountain Range</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-08-04</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-04/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-04/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>秘境之门，匠心传世</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-08/2026-08-04/image.jpg"><img src="docs/wallpapers/unsplash/2026-08/2026-08-04/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>green trees under white sky during daytime</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
