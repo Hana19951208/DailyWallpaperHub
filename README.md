@@ -44,7 +44,7 @@
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
 <td align="center"><b>2026-08-17</b></td>
-<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-17/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-17/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>星形城市的几何之美</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-08/2026-08-17/image.jpg"><img src="docs/wallpapers/unsplash/2026-08/2026-08-17/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>beautiful landscape from khorasan province </small></td>
 </tr>
 <tr>
