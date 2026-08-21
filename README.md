@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-08-21</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-08/2026-08-21/image.jpg"><img src="docs/wallpapers/unsplash/2026-08/2026-08-21/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>green grass field near lake and mountain during daytime</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-08-20</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-20/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-20/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>攀登在召唤</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-08/2026-08-20/image.jpg"><img src="docs/wallpapers/unsplash/2026-08/2026-08-20/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>ocean waves crashing on rocks during sunset</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-08-12</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-12/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-12/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>许个愿吧</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-08/2026-08-12/image.jpg"><img src="docs/wallpapers/unsplash/2026-08/2026-08-12/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>silhouette of mountains</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-08-11</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-11/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-11/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>值得守护的巨兽</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-08/2026-08-11/image.jpg"><img src="docs/wallpapers/unsplash/2026-08/2026-08-11/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a group of trees that are standing in the grass</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
