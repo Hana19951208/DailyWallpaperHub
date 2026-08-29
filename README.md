@@ -44,7 +44,7 @@
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
 <td align="center"><b>2026-08-29</b></td>
-<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-29/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-29/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>名为鲨鱼的巨型鱼类</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-08/2026-08-29/image.jpg"><img src="docs/wallpapers/unsplash/2026-08/2026-08-29/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Green park with trees and a red wall</small></td>
 </tr>
 <tr>
