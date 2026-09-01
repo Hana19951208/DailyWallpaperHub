@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-09-01</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-09/2026-09-01/image.jpg"><img src="docs/wallpapers/unsplash/2026-09/2026-09-01/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Akok-Ndoe</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-08-31</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-31/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-31/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>脚下的世界</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-08/2026-08-31/image.jpg"><img src="docs/wallpapers/unsplash/2026-08/2026-08-31/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a view of a lake in the middle of a forest</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-08-23</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-23/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-23/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>跨越历史</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-08/2026-08-23/image.jpg"><img src="docs/wallpapers/unsplash/2026-08/2026-08-23/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a grassy field with a mountain in the background</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-08-22</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-22/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-22/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>暑气渐消，金秋已至</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-08/2026-08-22/image.jpg"><img src="docs/wallpapers/unsplash/2026-08/2026-08-22/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>A beautiful landscape view near Periyott Hanging Bridge. Shot from Kanhangad in Kasaragod, Kerala.</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
