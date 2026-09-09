@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-09-09</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-09/2026-09-09/image.jpg"><img src="docs/wallpapers/unsplash/2026-09/2026-09-09/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a mountain range with trees and mountains in the background</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-09-08</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-09/2026-09-08/image.jpg"><img src="docs/wallpapers/bing/2026-09/2026-09-08/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>印度西海岸的生活</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-09/2026-09-08/image.jpg"><img src="docs/wallpapers/unsplash/2026-09/2026-09-08/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>green trees beside river under cloudy sky during daytime</small></td>
@@ -87,11 +92,6 @@ DONATE: paypal.me/darkindigo</small></td>
 <td align="center"><b>2026-08-31</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-31/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-31/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>脚下的世界</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-08/2026-08-31/image.jpg"><img src="docs/wallpapers/unsplash/2026-08/2026-08-31/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a view of a lake in the middle of a forest</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-08-30</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-30/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-30/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>图案艺术的典范</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-08/2026-08-30/image.jpg"><img src="docs/wallpapers/unsplash/2026-08/2026-08-30/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>tiger on water near green palm tree during daytime</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
