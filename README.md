@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-09-17</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-09/2026-09-17/image.jpg"><img src="docs/wallpapers/unsplash/2026-09/2026-09-17/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a body of water with mountains in the background</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-09-16</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-09/2026-09-16/image.jpg"><img src="docs/wallpapers/bing/2026-09/2026-09-16/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>为丰收举杯</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-09/2026-09-16/image.jpg"><img src="docs/wallpapers/unsplash/2026-09/2026-09-16/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Akok-Ndoe</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-09-08</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-09/2026-09-08/image.jpg"><img src="docs/wallpapers/bing/2026-09/2026-09-08/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>印度西海岸的生活</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-09/2026-09-08/image.jpg"><img src="docs/wallpapers/unsplash/2026-09/2026-09-08/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>green trees beside river under cloudy sky during daytime</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-09-07</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-09/2026-09-07/image.jpg"><img src="docs/wallpapers/bing/2026-09/2026-09-07/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>金色田野</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-09/2026-09-07/image.jpg"><img src="docs/wallpapers/unsplash/2026-09/2026-09-07/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a field with grass and mountains in the background</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
