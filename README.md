@@ -1,3 +1,5 @@
+
+
 # 📅 DailyWallpaperHub
 
 > 多源壁纸聚合平台 · 自动归档 Bing + Unsplash 精选壁纸 · AI 视觉故事生成 · 企业微信推送 · GitHub Pages 在线画廊
@@ -142,6 +144,7 @@ python batch_fetch.py unsplash 2025-12-10 # 抓取 Unsplash 指定日期
    - `LLM_MODEL_NAME`: LLM 模型名称
    - `UNSPLASH_ACCESS_KEY`: Unsplash API 访问密钥
     - `IMAGE_REPO`: 镜像图床仓库路径（如 `Hana19951208/blog-images`）
+    - `GH_PAT`: GitHub 个人访问令牌（可选，用于推送镜像图床仓库）
     - `GITHUB_TOKEN`: GitHub Token (默认已提供，无需手动设置)
 
 3. **启用 GitHub Pages**:
