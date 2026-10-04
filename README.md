@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-10-04</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-10/2026-10-04/image.jpg"><img src="docs/wallpapers/unsplash/2026-10/2026-10-04/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>people walking on sidewalk near green trees and brown building during daytime</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-10-03</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-10/2026-10-03/image.jpg"><img src="docs/wallpapers/bing/2026-10/2026-10-03/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>宇宙在召唤</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-10/2026-10-03/image.jpg"><img src="docs/wallpapers/unsplash/2026-10/2026-10-03/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a large green lawn with bushes and trees</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-09-25</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-09/2026-09-25/image.jpg"><img src="docs/wallpapers/bing/2026-09/2026-09-25/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>写在大地上的故事</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-09/2026-09-25/image.jpg"><img src="docs/wallpapers/unsplash/2026-09/2026-09-25/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a rocky outcrop with grass growing on top of it</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-09-24</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-09/2026-09-24/image.jpg"><img src="docs/wallpapers/bing/2026-09/2026-09-24/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>当月亮也来赴会</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-09/2026-09-24/image.jpg"><img src="docs/wallpapers/unsplash/2026-09/2026-09-24/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a body of water surrounded by mountains and grass</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
