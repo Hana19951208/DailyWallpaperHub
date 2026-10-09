@@ -44,7 +44,7 @@
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
 <td align="center"><b>2026-10-09</b></td>
-<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-10/2026-10-09/image.jpg"><img src="docs/wallpapers/bing/2026-10/2026-10-09/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>迁飞路线上的生命</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-10/2026-10-09/image.jpg"><img src="docs/wallpapers/unsplash/2026-10/2026-10-09/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Sunset shot of the great landscape in the South of Malta</small></td>
 </tr>
 <tr>
