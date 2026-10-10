@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-10-10</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-10/2026-10-10/image.jpg"><img src="docs/wallpapers/unsplash/2026-10/2026-10-10/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a field with trees and mountains in the background</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-10-09</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-10/2026-10-09/image.jpg"><img src="docs/wallpapers/bing/2026-10/2026-10-09/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>迁飞路线上的生命</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-10/2026-10-09/image.jpg"><img src="docs/wallpapers/unsplash/2026-10/2026-10-09/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Sunset shot of the great landscape in the South of Malta</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-10-01</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-10/2026-10-01/image.jpg"><img src="docs/wallpapers/bing/2026-10/2026-10-01/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>一条值得保护的河流</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-10/2026-10-01/image.jpg"><img src="docs/wallpapers/unsplash/2026-10/2026-10-01/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a house in the middle of a mountain range</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-09-30</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-09/2026-09-30/image.jpg"><img src="docs/wallpapers/bing/2026-09/2026-09-30/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>在花岗岩中读懂时间</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-09/2026-09-30/image.jpg"><img src="docs/wallpapers/unsplash/2026-09/2026-09-30/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Nature trail surrounded by trees. </small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
