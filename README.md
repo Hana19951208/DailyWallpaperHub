@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-10-13</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-10/2026-10-13/image.jpg"><img src="docs/wallpapers/unsplash/2026-10/2026-10-13/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Akok-Ndoe</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-10-12</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-10/2026-10-12/image.jpg"><img src="docs/wallpapers/bing/2026-10/2026-10-12/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>蓝与绿的交响曲</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-10/2026-10-12/image.jpg"><img src="docs/wallpapers/unsplash/2026-10/2026-10-12/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Hill on Lake Kivu</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-10-04</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-10/2026-10-04/image.jpg"><img src="docs/wallpapers/bing/2026-10/2026-10-04/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>纵身一跃，一次一课</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-10/2026-10-04/image.jpg"><img src="docs/wallpapers/unsplash/2026-10/2026-10-04/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>people walking on sidewalk near green trees and brown building during daytime</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-10-03</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-10/2026-10-03/image.jpg"><img src="docs/wallpapers/bing/2026-10/2026-10-03/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>宇宙在召唤</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-10/2026-10-03/image.jpg"><img src="docs/wallpapers/unsplash/2026-10/2026-10-03/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a large green lawn with bushes and trees</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
