@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-10-23</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-10/2026-10-23/image.jpg"><img src="docs/wallpapers/unsplash/2026-10/2026-10-23/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>green trees under white clouds during daytime</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-10-22</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-10/2026-10-22/image.jpg"><img src="docs/wallpapers/bing/2026-10/2026-10-22/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>荒野伙伴</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-10/2026-10-22/image.jpg"><img src="docs/wallpapers/unsplash/2026-10/2026-10-22/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>A bunch of trees</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-10-14</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-10/2026-10-14/image.jpg"><img src="docs/wallpapers/bing/2026-10/2026-10-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>桥梁、屋顶与暮色</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-10/2026-10-14/image.jpg"><img src="docs/wallpapers/unsplash/2026-10/2026-10-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>the sun is setting over a mountain range</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-10-13</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-10/2026-10-13/image.jpg"><img src="docs/wallpapers/bing/2026-10/2026-10-13/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>穿越时间的螺旋</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-10/2026-10-13/image.jpg"><img src="docs/wallpapers/unsplash/2026-10/2026-10-13/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Akok-Ndoe</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
