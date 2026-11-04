@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-11-04</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-11/2026-11-04/image.jpg"><img src="docs/wallpapers/unsplash/2026-11/2026-11-04/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a black and white photo of a mountain range</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-11-03</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-03/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-03/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>泛舟如画秋林</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-11/2026-11-03/image.jpg"><img src="docs/wallpapers/unsplash/2026-11/2026-11-03/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a person riding a surfboard on a wave in the ocean</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-10-26</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-10/2026-10-26/image.jpg"><img src="docs/wallpapers/bing/2026-10/2026-10-26/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>大自然的金色明镜</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-10/2026-10-26/image.jpg"><img src="docs/wallpapers/unsplash/2026-10/2026-10-26/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>silhouette of mountain under blue sky during night time</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-10-25</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-10/2026-10-25/image.jpg"><img src="docs/wallpapers/bing/2026-10/2026-10-25/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>大自然的秋日乐章</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-10/2026-10-25/image.jpg"><img src="docs/wallpapers/unsplash/2026-10/2026-10-25/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>canon beach in Oregon</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
