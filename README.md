@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-11-09</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-11/2026-11-09/image.jpg"><img src="docs/wallpapers/unsplash/2026-11/2026-11-09/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Hill on Lake Kivu</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-11-08</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-08/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-08/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>艺术与韵律交汇之地</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-11/2026-11-08/image.jpg"><img src="docs/wallpapers/unsplash/2026-11/2026-11-08/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a rocky outcrop with grass growing on top of it</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-10-31</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-10/2026-10-31/image.jpg"><img src="docs/wallpapers/bing/2026-10/2026-10-31/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>林间迷雾</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-10/2026-10-31/image.jpg"><img src="docs/wallpapers/unsplash/2026-10/2026-10-31/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a body of water surrounded by lots of trees</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-10-30</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-10/2026-10-30/image.jpg"><img src="docs/wallpapers/bing/2026-10/2026-10-30/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>往昔帝国的幽影</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-10/2026-10-30/image.jpg"><img src="docs/wallpapers/unsplash/2026-10/2026-10-30/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a field with trees and mountains in the background</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
