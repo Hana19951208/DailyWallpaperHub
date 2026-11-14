@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-11-14</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-11/2026-11-14/image.jpg"><img src="docs/wallpapers/unsplash/2026-11/2026-11-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Sunrise off the face of the mountain in Red Rock National Conservation Area. </small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-11-13</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-13/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-13/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>唯有向上发展</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-11/2026-11-13/image.jpg"><img src="docs/wallpapers/unsplash/2026-11/2026-11-13/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>FOLLOW ME: https://www.instagram.com/dark_indigox/ 
@@ -88,11 +93,6 @@ DONATE: paypal.me/darkindigo</small></td>
 <td align="center"><b>2026-11-05</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-05/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-05/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>穿越毛伊岛的绿色隧道</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-11/2026-11-05/image.jpg"><img src="docs/wallpapers/unsplash/2026-11/2026-11-05/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>brown and green rock formation on sea under gray clouds during daytime</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-11-04</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-04/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-04/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>向山巅再迈一步</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-11/2026-11-04/image.jpg"><img src="docs/wallpapers/unsplash/2026-11/2026-11-04/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a black and white photo of a mountain range</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
