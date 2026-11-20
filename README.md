@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-11-20</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-11/2026-11-20/image.jpg"><img src="docs/wallpapers/unsplash/2026-11/2026-11-20/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>lake in the middle of mountains during daytime</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-11-19</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-19/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-19/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>在峡湾中大快朵颐</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-11/2026-11-19/image.jpg"><img src="docs/wallpapers/unsplash/2026-11/2026-11-19/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>A rock formation with a tree in the foreground</small></td>
@@ -88,11 +93,6 @@ DONATE: paypal.me/darkindigo</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-11/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-11/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>没有建筑师的建筑杰作</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-11/2026-11-11/image.jpg"><img src="docs/wallpapers/unsplash/2026-11/2026-11-11/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Took this photo 2008 on a trip to swiss. Panorama of six vertical shots stitched together. 
 1/400 sec / f.8 / ISO 200 / Nikon D70</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-11-10</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-10/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-10/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>奇妙纷呈的森林</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-11/2026-11-10/image.jpg"><img src="docs/wallpapers/unsplash/2026-11/2026-11-10/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Trees with dark green foliage in a park with a grassy lawn</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
