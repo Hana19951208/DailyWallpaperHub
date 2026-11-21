@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-11-21</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-11/2026-11-21/image.jpg"><img src="docs/wallpapers/unsplash/2026-11/2026-11-21/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>yellow flower field near green mountain under white clouds during daytime</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-11-20</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-20/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-20/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>陶瓦屋顶下的梦</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-11/2026-11-20/image.jpg"><img src="docs/wallpapers/unsplash/2026-11/2026-11-20/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>lake in the middle of mountains during daytime</small></td>
@@ -87,12 +92,6 @@ DONATE: paypal.me/darkindigo</small></td>
 <td align="center"><b>2026-11-12</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-12/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-12/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>冰下秘境</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-11/2026-11-12/image.jpg"><img src="docs/wallpapers/unsplash/2026-11/2026-11-12/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>green grass field near body of water during daytime</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-11-11</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-11/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-11/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>没有建筑师的建筑杰作</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-11/2026-11-11/image.jpg"><img src="docs/wallpapers/unsplash/2026-11/2026-11-11/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Took this photo 2008 on a trip to swiss. Panorama of six vertical shots stitched together. 
-1/400 sec / f.8 / ISO 200 / Nikon D70</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
