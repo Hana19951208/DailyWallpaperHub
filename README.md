@@ -44,7 +44,7 @@
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
 <td align="center"><b>2026-11-24</b></td>
-<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-24/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-24/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>美国西南部的一场雪</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-11/2026-11-24/image.jpg"><img src="docs/wallpapers/unsplash/2026-11/2026-11-24/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>white and brown house near brown grass field and mountain during daytime</small></td>
 </tr>
 <tr>
