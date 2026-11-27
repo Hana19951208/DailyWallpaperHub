@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-11-27</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-11/2026-11-27/image.jpg"><img src="docs/wallpapers/unsplash/2026-11/2026-11-27/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Sunrise by the lake.</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-11-26</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-26/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-26/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>灰金交织的峡谷</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-11/2026-11-26/image.jpg"><img src="docs/wallpapers/unsplash/2026-11/2026-11-26/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a black and white photo of a river running through a valley</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-11-18</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-18/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-18/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>思想在此成形</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-11/2026-11-18/image.jpg"><img src="docs/wallpapers/unsplash/2026-11/2026-11-18/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Mountain Range</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-11-17</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-17/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-17/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>从黄昏狩猎到黎明</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-11/2026-11-17/image.jpg"><img src="docs/wallpapers/unsplash/2026-11/2026-11-17/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>A dirt road with a mountain in the background</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
